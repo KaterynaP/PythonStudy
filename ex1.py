@@ -1,0 +1,7 @@
+print("Witaj, Świecie!")
+#print("Podoba mi się takie wpisywanie.")
+#print("To jest fajne.")
+#print("Jeju!Dziękuję.")
+#print("Wolałbym, żebyś tego 'nie robił'.")
+#print('"Powiedziałem", że masz tego nie dotykać.')
+#print("Nowa linia jako zadanie.")
