@@ -1,4 +1,5 @@
-print("Ile masz lat?", end = ' ')
+test = input()
+print("Ile masz lat?", end=' ')
 age = input()
 print("Ile masz wzrostu?", end=' ')
 height = input()
